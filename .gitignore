@@ -6,3 +6,4 @@ boot/
 0.13/plugins/project/
 0.13/staging/
 preloaded
+1.0/plugins/metals.sbt
