@@ -5,6 +5,7 @@ boot/
 0.13/plugins/target/
 0.13/plugins/project/
 0.13/staging/
+0.13/java*
 preloaded
 1.0/plugins/metals.sbt
 1.0/staging/
